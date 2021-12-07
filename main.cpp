@@ -1,15 +1,4 @@
 /*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Fri, Sep 24, 2021
-Description: This is the cpp source file for the solution of problem 3, lab 1.
-             It takes a single command line argument that represents the initial
-             reflection’s x location along the AB segment and calculates the
-             number of times the beam is reflected off an internal surface of the
-             white cell before exiting.
-*/
-
-/*
  References:
  https://www.geeksforgeeks.org/program-for-point-of-intersection-of-two-lines/
  https://www.wikihow.com/Find-the-Equation-of-a-Perpendicular-Line
